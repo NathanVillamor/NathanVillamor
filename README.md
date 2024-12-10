@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Quickie Service Website](https://github.com/NathanVillamor/QuickieWebsite.git)
 
-- 🌱 I’m currently learning **Mobile Development, Robotics, Frontend Development**
+- 🌱 I’m currently learning **Full-Stack Development, Robotics, Mobile Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NathanVillamor](https://github.com/NathanVillamor)
 
