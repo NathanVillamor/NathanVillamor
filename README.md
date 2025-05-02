@@ -7,7 +7,7 @@
 
 <p></p>
 
-- 🌱 I’m currently learning **Software Development & Robotics**
+- 🌱 I’m currently learning **Software Development & Full-stack Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NathanVillamor](https://github.com/NathanVillamor)
 
